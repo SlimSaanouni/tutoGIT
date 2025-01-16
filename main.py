@@ -17,7 +17,7 @@ __version__= "0.0.1"
 
 #Definition de la page
 st.set_page_config(
-    page_title="SSA Stock Analysis", page_icon="📊", initial_sidebar_state="expanded"
+    page_title="SSA Stock Analysis TUTO GIT", page_icon="📊", initial_sidebar_state="expanded"
 )
 
 # Seaborn customization
