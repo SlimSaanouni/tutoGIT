@@ -62,3 +62,5 @@ Slim Saanouni - For any inquiries, feel free to [contact me](mailto:saanouni.sli
 
 This project is licensed under the MIT License.
 
+## New stuff added for GIT tutorial
+
