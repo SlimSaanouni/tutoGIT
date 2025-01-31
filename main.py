@@ -6,8 +6,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-import investmentStrategies as invStrat
-from investmentStrategies import MONTH_YEAR
+import src.investmentStrategies as invStrat
+from src.investmentStrategies import MONTH_YEAR
 
 __authors__ = ("Slim Saanouni")
 __contact__ = ("saanouni.slim@gmail.com")
