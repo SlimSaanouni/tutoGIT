@@ -1,4 +1,4 @@
 _env_/
 Docs/
-src/__pycache/
+src/__pycache__/
 .DS_Store
