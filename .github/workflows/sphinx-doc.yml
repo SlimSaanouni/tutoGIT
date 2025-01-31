@@ -20,7 +20,7 @@ jobs:
 
       - name: 📦 Install dependencies
         run: |
-          pip install sphinx spinx-rtd-theme
+          pip install sphinx sphinx-rtd-theme
           pip install -r requirements.txt || echo "No additional dependencies"
 
       - name: 🏗 Build Sphinx Documentation
