@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Sphinx Documentation",
+            "type": "shell",
+            "command": "make",
+            "args": ["html"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "options": {
+                "cwd": "${workspaceFolder}/docs"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

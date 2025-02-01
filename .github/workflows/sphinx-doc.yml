@@ -25,7 +25,6 @@ jobs:
 
       - name: 🏗 Build Sphinx Documentation
         run: |
-          pwd
           cd docs
           make clean
           make html
