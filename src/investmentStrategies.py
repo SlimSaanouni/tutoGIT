@@ -32,6 +32,8 @@ def dollar_average_cost_approach(df, purchase_dates, horizon: int, frequency: in
     :param horizon: Horizon d'investissement en mois (int).
     :param frequency: Fréquence d'investissement en mois (int).
     :return: Série de ROI de l'investissement.
+
+    Test pour MaJ automatique de la doc
     """
     purchase_dates = pd.to_datetime(purchase_dates)
 
